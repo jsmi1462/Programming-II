@@ -5,3 +5,5 @@ list = [sword, potion]
 print(list)
 list.remove(potion)
 print(list)
+def item_generator(name, weight):
+    pass
